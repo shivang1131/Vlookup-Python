@@ -3,3 +3,6 @@ datetime
 uuid
 requests
 PyNaCl
+fastapi
+uvicorn
+pydantic
